@@ -1,4 +1,4 @@
-# Brandon-NFT-Token
+# BrandonToken
 
 ```
 npm install
